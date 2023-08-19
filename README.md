@@ -1,4 +1,4 @@
-[![MasterHead](https://www.cambridgeconsultants.com/sites/default/files/uploaded-images/Hero_ccims_42750012350_1.jpg)
+![MasterHead](https://www.cambridgeconsultants.com/sites/default/files/uploaded-images/Hero_ccims_42750012350_1.jpg)
 <h1 align="center">Hi 👋, I'm Mustafa</h1>
 <h3 align="center">Embedded Software Engineer from Turkey</h3>
 
