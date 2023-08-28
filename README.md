@@ -14,7 +14,7 @@
 
 - 📄 Know about my experiences [https://www.canva.com/design/DAFhS-xtYh8/j62O3GTrIJGKWtD2QazaRA/edit](https://www.canva.com/design/DAFhS-xtYh8/j62O3GTrIJGKWtD2QazaRA/edit)
 
-- ⚡ Fun fact **Coffe & Coding**
+- ⚡ Fun fact **Coffee & Coding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
