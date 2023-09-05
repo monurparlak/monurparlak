@@ -1,14 +1,14 @@
 ![MasterHead](https://www.cambridgeconsultants.com/sites/default/files/uploaded-images/Hero_ccims_42750012350_1.jpg)
 <h1 align="center">Hi 👋, I'm Mustafa</h1>
-<h3 align="center">Embedded Software Engineer from Turkey</h3>
+<h3 align="center">Software Engineer from Turkey</h3>
 
-- 🔭 I’m currently working on **Automotive and Defense Industry**
+- 🔭 I’m currently working on **Full Stack Developer & Automotive & Customer-based embedded software projects**
 
-- 🌱 I’m currently learning **Embedded Software Architecture and Qt & QML**
+- 🌱 I’m currently learning **Full Stack & Embedded Software and Qt & QML**
 
 - 👨‍💻 All of my projects are available at [https://github.com/monurparlak?tab=repositories](https://github.com/monurparlak?tab=repositories)
 
-- 💬 Ask me about **C & C++ & Communication Protocols & Automotive Industry**
+- 💬 Ask me about **C & C++ & Front-End & Back-End & Communication Protocols & Automotive Industry**
 
 - 📫 How to reach me **monurparlak@gmail.com**
 
