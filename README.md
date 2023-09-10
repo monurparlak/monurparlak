@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/monurparlak?tab=repositories](https://github.com/monurparlak?tab=repositories)
 
-- 💬 Ask me about **C & C++ & Front-End & Back-End & Communication Protocols & Automotive Industry**
+- 💬 Ask me about **C & C++ & Qt & Linux & Communication Protocols & Automotive Industry**
 
 - 📫 How to reach me **monurparlak@gmail.com**
 
