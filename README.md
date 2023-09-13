@@ -1,18 +1,15 @@
-![MasterHead](https://www.cambridgeconsultants.com/sites/default/files/uploaded-images/Hero_ccims_42750012350_1.jpg)
-<h1 align="center">Hi 👋, I'm Mustafa</h1>
-<h3 align="center">Software Engineer from Turkey</h3>
+<h1 align="center">Hi 👋, I'm Mustafa </h1>
+<h3 align="center">Software Engineer</h3>
 
-- 🔭 I’m currently working on **Full Stack Developer & Automotive & Customer-based embedded software projects**
+- 🔭 I’m currently working on **Qt & C++ Developer & Automotive & Customer-based embedded software projects**
 
-- 🌱 I’m currently learning **Full Stack & Embedded Software and Qt & QML**
+- 🌱 I’m currently learning **Qt & QML & C++ Developer and Embedded SoftwareL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/monurparlak?tab=repositories](https://github.com/monurparlak?tab=repositories)
 
 - 💬 Ask me about **C & C++ & Qt & Linux & Communication Protocols & Automotive Industry**
 
 - 📫 How to reach me **monurparlak@gmail.com**
-
-- 📄 Know about my experiences [https://www.canva.com/design/DAFhS-xtYh8/j62O3GTrIJGKWtD2QazaRA/edit](https://www.canva.com/design/DAFhS-xtYh8/j62O3GTrIJGKWtD2QazaRA/edit)
 
 - ⚡ Fun fact **Coffee & Coding**
 
@@ -28,5 +25,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=monurparlak&show_icons=true&locale=en&layout=compact" alt="monurparlak" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=monurparlak&show_icons=true&locale=en" alt="monurparlak" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=monurparlak&" alt="monurparlak" /></p>
