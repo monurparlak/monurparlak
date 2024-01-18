@@ -1,17 +1,28 @@
 <h1 align="center">Hi 👋, I'm Mustafa Onur Parlak </h1>
 <h3 align="center">Software Engineer</h3>
 
-• I am interested in embedded system (MCU) based software development. 
+• I am interested in embedded system (MCU) based software development.
+
 • I work in the fields of **Automotive Industry**, Defense Industry, Customer Demand and IoT.
+
 • Use of **Embedded C** and **OOP C++** for Firmware and Software Applications.
+
 • Graphical user interface **(GUI)** Designing interfaces with **Qt and QML**.
+
 • Using **CMake/Makefile** & **GNU** **(GCC/G++)** & Toolchains as utilities in Compiler and Debug processes.
+
 • Use of Clean Code and generic programming principles. Version Control Software Tools (**Git**, Jira, **codebeamer**, etc.).
+
 • Used in software development processes. **V-Model**, Agile etc.
+
 • **RTOS**, **Linux**, **AUTOSAR**, A-SPICE, **Vector CANoe**, Vflash, CAPL, OTA, **Bootloader**, etc.
+
 • **STM32**, **NXP**, **i.MX RT**, ESP32, Raspberry PI Pico, Nuvoton with LINBUS, **CANBUS**, UART, SPI, I2C, RS, Wireless etc.
 
+Personal Informations:
+
 • **monurparlak@gmail.com**
+
 • **Coffee & Coding**
 
 <h3 align="left">Connect with me:</h3>
