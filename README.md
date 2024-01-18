@@ -23,9 +23,9 @@ Personal Informations:
 
 • **monurparlak@gmail.com**
 
-• **youtube.com/@monurparlak**
+• **www.youtube.com/@monurparlak**
 
-• **linkedin.com/in/monurparlak/**
+• **www.linkedin.com/in/monurparlak/**
 
 • **Coffee & Coding**
 
