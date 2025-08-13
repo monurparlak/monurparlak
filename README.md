@@ -1,23 +1,17 @@
 <h1 align="center">Hi 👋, I'm Mustafa Onur Parlak </h1>
 <h3 align="center">Software Engineer</h3>
 
-• I am interested in embedded system (MCU) based software development.
+• I am passionate about **embedded (MCU)**, **RTOS**, **Windows and Linux-based** development.
 
-• I work in the fields of **Automotive Industry**, Defense Industry, Customer Demand and IoT.
+• I  have experience in the **Automotive**, **Defense**, **Customer** **Needs**, and **IoT** industries.
 
-• Use of **Embedded C** and **OOP C++** for Firmware and Software Applications.
+• Proficient in **Embedded C** and **OOP C++** for firmware and software applications.
 
-• Graphical user interface **(GUI)** Designing interfaces with **Qt and QML**.
+• Experienced with **Makefile/CMake**, **GNU (GCC GDB)**, and toolchains, compiler and debugging.
 
-• Using **CMake/Makefile** & **GNU** **(GCC/G++)** & Toolchains as utilities in Compiler and Debug processes.
+• **Clean code** and **general programming**. Version control: **Git** and **Jira**. **V-Model **and **Agile**.
 
-• Use of Clean Code and generic programming principles. Version Control Software Tools (**Git**, Jira, **codebeamer**, etc.).
-
-• Used in software development processes. **V-Model**, Agile etc.
-
-• **RTOS**, **Linux**, **AUTOSAR**, A-SPICE, **Vector CANoe**, Vflash, CAPL, OTA, **Bootloader**, etc.
-
-• **STM32**, **NXP**, **i.MX RT**, ESP32, Raspberry PI Pico, Nuvoton with LINBUS, **CANBUS**, UART, SPI, I2C, RS, Wireless etc.
+• Experience with **NXP**, **iMX**, **STM32**, **ESP32**, **Raspberry Pico**, and **CAN/LIN**, **UART/SPI/I2C**.
 
 Personal Informations:
 
