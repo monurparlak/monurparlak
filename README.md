@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mustafa Onur Parlak </h1>
+<h1 align="center">Hi 👋, I'm Onur Parlak </h1>
 <h3 align="center">Software Engineer</h3>
 
 • I am passionate about **embedded (MCU)**, **RTOS**, **Windows and Linux-based** development.
@@ -9,7 +9,7 @@
 
 • Experienced with **Makefile/CMake**, **GNU (GCC GDB)**, and toolchains, compiler and debugging.
 
-• **Clean code** and **general programming**. Version control: **Git** and **Jira**. **V-Model **and **Agile**.
+• **Clean code** and **general programming**. Version control: **Git** and **Jira**. **V-Model** and **Agile**.
 
 • Experience with **NXP**, **iMX**, **STM32**, **ESP32**, **Raspberry Pico**, and **CAN/LIN**, **UART/SPI/I2C**.
 
